@@ -1,4 +1,4 @@
-package com.github.rafaelmendes1.meetingapi;
+package com.github.rafaelmendes1.meetingapi.repository;
 
 import com.github.rafaelmendes1.meetingapi.entities.Room;
 import org.springframework.data.jpa.repository.JpaRepository;
